@@ -1,4 +1,9 @@
 1. Squencing: algorithms run in a predefined order; 
   Selection: get different outputs based upon certain booleans; 
   Iteration: repeat a certain block of code until a certain boolean state is achieved
-2. 
+2. [Analyzing a cleaner version of the code that I created <https://editor.p5js.org/pilover/sketches/BJNkLushX>] 
+  First, a canvas with a white background is created.
+  Then, the function iterates over each of the 8 colums.
+    Within each column, the function iterates over each of the 8 rows.
+      If the sum of the x and y indices is even, a transparent square is drawn.
+        Otherwise, a purple square is drawn
