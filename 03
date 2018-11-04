@@ -1,3 +1,5 @@
+Free Response:
+
 1. Squencing: algorithms run in a predefined order; 
   Selection: get different outputs based upon certain booleans; 
   Iteration: repeat a certain block of code until a certain boolean state is achieved
@@ -7,3 +9,12 @@
     Within each column, the function iterates over each of the 8 rows.
       If the sum of the x and y indices is even, a transparent square is drawn.
         Otherwise, a purple square is drawn
+        
+Multiple Choice:
+
+1. D
+2. B
+3. B, C
+4. A
+5. A
+6. 
