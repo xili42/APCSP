@@ -24,7 +24,7 @@ Befunge:
 1. Befunge was invented in 1993 by Chris Pressey. It is an esoteric language, so it is mostly unknown.
 2. Befunge can be used for 2-dimensional control flow, where the execution of the program can move left, right, up or down using arrows.
 3. Befunge has been influenced by Forth and FALSE.
-4. Befunge is unreadable. We could understand 5% of the lines without being an expert.
+4. Befunge is unreadable. We could understand 5% of the lines without being experts.
 5. Befunge is stack-based, so it relies on a stack for storing and passing values for functions. It is reflective, so programs can modify themselves when they are running.
 
 Python:
