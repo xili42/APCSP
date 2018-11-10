@@ -28,7 +28,6 @@ Befunge:
 5. Befunge is stack-based, so it relies on a stack for storing and passing values for functions. It is reflective, so programs can modify themselves when they are running.
 
 Python:
-
 1. Python was invented in the late 1980s by Guido van Rossum. It is widely known and is the 4th most popular language on the TIOBE index as of November 2018.
 2. Python is commonly used for scripting, web development, and data analysis.
 3. Python was influenced by ABC, ALGOL 68, APL, C, C++, CLU, Dylan, Haskell, Icon, Java, Lisp, Modula-3, Perl, and Standard ML. It influenced Boo, Cobra, CoffeeScript, D, F#, Falcon, Genie, Go, Apache Groovy, Javascript, Julia, Nim, Ring, Ruby, Swift.
